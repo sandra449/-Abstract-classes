@@ -1,0 +1,1 @@
+This is a basic PHP project where users can **register**, **log in**, view their **profile**, and **log out**. It uses PHP OOP features like **namespaces** and **classes**, and stores data in a **MySQL database**.
